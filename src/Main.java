@@ -14,3 +14,6 @@ public class Main {
     }
 
 }
+
+// Das UML wäre genau gleich, wei in der Aufgabenstellung,
+// jedoch wird der Pfeil vom Transformer zum Roboter gestrichelt.
