@@ -13,12 +13,15 @@ public class Person {
     }
 
     public void eat() {
+        System.out.println("mampf");
     }
 
     public void fight() {
+        System.out.println("schlegl");
     }
 
     public void die() {
+        System.out.println("uff");
     }
 
 }
