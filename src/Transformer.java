@@ -1,4 +1,4 @@
-public class Transformer extends Person implements Robot{
+public class Transformer extends Person implements iRobot{
 
     public Transformer(String name, int weight) {
         super(name,weight);

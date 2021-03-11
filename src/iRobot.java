@@ -1,4 +1,4 @@
-public interface Robot {
+public interface iRobot {
 
     String model = "WALL-E";
     int weight = 50;
